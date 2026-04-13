@@ -14,3 +14,8 @@ package-lock.json
 
 # Compilados
 *.css.map
+
+# Permitir la carpeta images (contiene archivos del proyecto)
+!images/
+!images/*.jpg
+!images/*.png
