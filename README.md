@@ -6,16 +6,17 @@ Sitio web estático de tienda de ropa deportiva streetwear, desarrollado como pa
 
 ## 🌐 Vista previa
 
-> Publicado en: [https://tu-usuario.github.io/strk](https://tu-usuario.github.io/strk)
+> Publicado en: [https://MatiKing28821.github.io/Proyecto-1](https://MatiKing28821.github.io/Proyecto-1)
 
 ---
 
 ## 📁 Estructura de carpetas
 
 ```
-strk/
+Proyecto-1/
 ├── index.html      ← Página principal con HTML5 semántico
-├── styles.css      ← Estilos externos (CSS3 + Flexbox + Grid)
+├── css/
+│   └── styles.css  ← Estilos externos (CSS3 + Flexbox + Grid)
 ├── .gitignore      ← Archivo de control de versiones
 └── README.md       ← Documentación del proyecto
 ```
