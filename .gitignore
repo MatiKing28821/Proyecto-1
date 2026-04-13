@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Node (si se usa npm en futuro)
+node_modules/
+package-lock.json
+
+# Compilados
+*.css.map
